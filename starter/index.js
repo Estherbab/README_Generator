@@ -31,9 +31,10 @@ const questions = [
       },
 
       {
-        type: 'input',
+        type: 'list',
         name: 'License',
         message: 'What license has been used on this Repo?',
+        choices: ["MIT", "Apache", "None"]
       },
 
       {
