@@ -1,13 +1,13 @@
-# undefined
-  https://img.shields.io/badge/license-Apache-blue                                 
+# WOOOOW
+  https://img.shields.io/badge/license-MIT-blue                                 
 
 
 ## Description
-creating a readme file dynamically  
+YES  
 
 ## Table of Contents
 
-* [Installation](#instacleallation)
+* [Installation](#installation)
 * [Usage](#usage)
 * [License](#license)
 * [Contributing](#contributing)
@@ -15,22 +15,22 @@ creating a readme file dynamically
 * [Questions](#questions)
 
 ## Installation
-run nmp to install all the list of dependencies from the package json
+NO
 
 ## Usage
-this application installs packages
+J
 
 ## License
-Apache
+MIT
 
 ## Contributing
-I have contributed by answering questions
+S
 
 ## Tests
-Make sure you run npm i so that everything works well
+S
 
 ## Questions
-To have a look at my repository please add my github user name here https://github.com/estherbab
-If you have any further questions please feel free to contact me by sending my an email estherbab@gmail.com
+To have a look at my repository please add my github user name here https://github.com/SH
+If you have any further questions please feel free to contact me by sending my an email D
 
 
