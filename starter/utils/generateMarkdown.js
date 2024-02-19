@@ -5,7 +5,6 @@ function generateMarkdown(data) {                     // generate all your answe
 
 
 ## Description
-
 ${data.Description}  
 
 ## Table of Contents
@@ -16,6 +15,26 @@ ${data.Description}
 * [Contributing](#contributing)
 * [Tests](#tests)
 * [Questions](#questions)
+
+## Installation
+${data.Installation}
+
+## Usage
+${data.Usage}
+
+## License
+${data.License}
+
+## Contributing
+${data.Contributing}
+
+## Tests
+${data.Tests}
+
+## Questions
+To have a look at my repository please add my github user name here https://github.com/${data.Questions_Github}
+If you have any further questions please feel free to contact me by sending my an email ${data.Questions_Email}
+
 
 `;
 }
