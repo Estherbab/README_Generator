@@ -1,7 +1,8 @@
 const fs = require("fs");
 const path = require('path');
 const inquirer = require("inquirer");
-const generateMarkdown = require("./utils/generateMarkdown");
+const generateMarkdown = require("./utils/generateMarkdown");      // calling in this function in here so that you can use it, you going to hand it the answers that your user gave you, and inside function you will tell it where answers should land inside your templatw
+
 
 // array of questions for user
 const questions = [
@@ -72,6 +73,8 @@ function init() {
 inquirer.prompt(questions)
 .then(answers =>{
     console.log(answers)   // getting our answers from all of our questions 
+    //creating the READme.md file, and calling the generatemarkdown function that needs the answers  
+    writeToFile("README.md", generateMarkdown(answers))
 })
 }
 
