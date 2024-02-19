@@ -4,7 +4,17 @@ function generateMarkdown(data) {                     // generate all your answe
 
 ## Description
 
-${data.Description}                     
+${data.Description}  
+
+## Table of Contents
+
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Questions](#questions)
+
 `;
 }
 
