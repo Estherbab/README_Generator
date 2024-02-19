@@ -5,6 +5,8 @@ https://img.shields.io/badge/license-MIT-blue
 ## Description
 In this project i will be creating a professional READme generator,by creating a command line application that dynamically generates a README.md file using the users input  
 
+Link to walkthrough video that demontrates functionality of README Generator []([https://youtu.be/aBrBnkUZ2v4](https://www.youtube.com/watch?v=aBrBnkUZ2v4))
+
 ## Table of Contents
 
 * [Installation](#installation)
